@@ -11,8 +11,8 @@ While we don’t want to give you any definitive requirements, here are some of 
 - Emotional design (don’t be afraid to use pictures etc to create emotion)
 - Two currencies (we operate with both real currency and a on-platform currency and both need to be represented in the design)
 - Social platform (our users are able to friend and follow each other on the platform. We try to influence all our pages with this social element)
-- User reviews 
-- Cross category referencing. Hubrick is a platform with multiple categories. This gives us possibilities other platforms can’t do. For example, we could link from a Game Of Thrones video page to a product page for the wolf fur coat that Ned Stark wears (if such thing was for sale). 
+- User reviews
+- Cross category referencing. Hubrick is a platform with multiple categories. This gives us possibilities other platforms can’t do. For example, we could link from a Game Of Thrones video page to a product page for the wolf fur coat that Ned Stark wears (if such thing was for sale)
 
 Other than this the rest is up to you. Just to give you a helping hand, here is some more information of what our video pages could contain
 
