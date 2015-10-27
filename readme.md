@@ -1,9 +1,9 @@
-A Designers Brief
+A Designer's Brief
 ========================
 
 #Objective and Goal
 
-We would want you to design a responsive product page (i.e. a page where you are presented with the option to purchase) for a TV Series. Any TV series will do and you are free to choose yourself. This is to better get a full understanding of your visual sense and ability to solve something you interact with often and that is already out there in so many shapes and forms. 
+We want you to design a responsive product page (i.e. a page where you are presented with the option to purchase) for a TV Series. Any TV series will do and you are free to choose yourself. This is to better get a full understanding of your visual sense and ability to solve something you interact with often and that is already out there in so many shapes and forms. 
 
 While we don’t want to give you any definitive requirements of what would be in the design you create, we would still want to inform about some of the basics that we use at Hubrick:
 
